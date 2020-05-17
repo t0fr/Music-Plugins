@@ -17,17 +17,11 @@ Take a look over here: https://bedroomproducersblog.com/free-vst-plugins/
 * [Substance by Tactile Sounds](https://www.pluginboutique.com/product/1-Instruments/4-Synth/377-TS-Substance)
 * [Tunefish v4](https://www.tunefish-synth.com/)
 
-### Acoustic Bass
-* [ZomBass 1 by Wilkinson Audio](https://wilkinsonaudio.com/collections/free/products/zombass-1) (This is a Kontakt Plugin)
-* [ZomBass 2 by Wilkinson Audio](https://wilkinsonaudio.com/collections/free/products/zombass-2) (This is a Kontakt Plugin)
-* [ZomBass 3 by Wilkinson Audio](https://wilkinsonaudio.com/collections/free/products/zombass-3) (This is a Kontakt Plugin)
-* [ZomBass 4 by Wilkinson Audio](https://wilkinsonaudio.com/collections/free/products/zombass-4) (This is a Kontakt Plugin)
-
 ### Drums
 * [MT Power Drumkit 2](https://www.powerdrumkit.com/)
 * [Sitala by Decomposer](https://decomposer.de/sitala/)
 * [TS-808 by Tactile Sounds](https://www.pluginboutique.com/product/1-Instruments/7-Drum-Machine/376-TS-808)
-* [Naked Drums by Wilkinson Audio](https://wilkinsonaudio.com/collections/free/products/naked-drums) (This is a Kontakt Plugin)
+* [Naked Drums by Wilkinson Audio](https://wilkinsonaudio.com/collections/free/products/naked-drums) (This is a Kontakt Plugin, but you can extract the samples)
 
 ## Utility Plugins
 ### MIDI Plugins
